@@ -1,2 +1,2 @@
 # git-repository-move
-Move existing git repository to a new repository
+Move existing Git repository to a new Git repository
